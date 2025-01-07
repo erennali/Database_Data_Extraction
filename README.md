@@ -9,7 +9,7 @@
 Install dependencies: `pip install pyodbc`  
 
 ## 🚀 **Usage (Kullanım)**  
-1. Clone this repository: `git clone <REPO_URL> && cd <REPO_FOLDER>`  
+1. Clone this repository: `git clone https://github.com/erennali/Database_Data_Extraction.git`  
 2. Update connection settings:  
 ```python  
 conn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'  
